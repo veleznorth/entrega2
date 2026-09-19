@@ -26,7 +26,7 @@ M=1
     @i
     D=M
     @1
-    M=M+D
+    M=D+M
 
     // Avanzamos el contador
     @i

@@ -1,6 +1,6 @@
 //Nos aseguramos de que el resultado inicie en 0
 @2
-m=0
+M=0
 
 //Guardamos en temporal la cantidad de veces que hay que sumar el numero
 @1
@@ -20,7 +20,7 @@ D=M
 
 //Sumamos el numero
 @2
-M=M+D
+M=D+M
 
 //Restamos al contador
 @1
